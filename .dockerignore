@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.xlsx
+Untitled
+.dockerignore
+deploy.ps1
