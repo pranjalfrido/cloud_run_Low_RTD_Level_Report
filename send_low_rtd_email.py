@@ -47,6 +47,9 @@ CC_EMAILS = [
     "abhishek.v@myfrido.com",
     "tushar.g@myfrido.com",
     "pranjal.t@myfrido.com",
+    "Syed.h@myfrido.com",
+    "nikhil.k@myfrido.com",
+    "Rahul.m@myfrido.com",
 ]
 
 GRAPH_SCOPE    = ["https://graph.microsoft.com/.default"]
